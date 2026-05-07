@@ -23,4 +23,4 @@ Each node in the tree represents a file system entity:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/File-Manager-BST.git](https://github.com/YOUR_USERNAME/File-Manager-BST.git)
+   git clone [https://github.com/shrikareballi/File-Manager-BST.git](https://github.com/shrikareballiE/File-Manager-BST.git)
